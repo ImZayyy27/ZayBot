@@ -17,7 +17,7 @@
 ## Clone this project
 
 ```bash
-> git clone https://github.com/MhankBarBar/whatsapp-bot
+> git clone https://github.com/ImZayyy27/ZayBot
 ```
 
 ## Install the dependencies:
@@ -25,6 +25,7 @@ Before running the below command, make sure you're in the project directory that
 you've just cloned!!
 
 ```bash
+> cd ZayBot
 > npm install gify-cli -g
 > npm i
 ```
@@ -103,10 +104,3 @@ Fix Stuck on linux, install google chrome stable:
 > wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
 > sudo apt install ./google-chrome-stable_current_amd64.deb
 ```
-## Special Thanks to
-* [`open-wa/wa-automate-nodejs`](https://github.com/open-wa/wa-automate-nodejs)
-* [`YogaSakti/imageToSticker`](https://github.com/YogaSakti/imageToSticker)
-* [`SomnathDas/Whatsapp-Botto-Re`](https://github.com/SomnathDas/Whatsapp-Botto-Re)
-
-### Donate
-* [`Saweria`](https://saweria.co/donate/mhankbarbar)
